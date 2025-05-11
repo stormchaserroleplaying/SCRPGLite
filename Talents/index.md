@@ -25,9 +25,17 @@ nav_order: 3
 
 | Talent | Ability |
 |:------:|:-------:|
-| Bard | +1 to all skills. |
+| Bad Feeling | +2 to initiative. |
+| Jack of all Trades | +1 to all skills. |
 | Ranger | Animal companion. |
 | Rogue | Sneak attack for x3 damage if your target can’t see you. |
+
+## Lineage Talents
+
+| Talent | Ability |
+|:------:|:-------:|
+| Celestial Lineage | See in darkness. Cast *cure wounds* once per day.   |
+| Infernal Lineage  | See in darkness. Cast *burning hands* once per day. |
 
 ## Warrior Talents
 
