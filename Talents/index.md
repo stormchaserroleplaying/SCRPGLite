@@ -10,7 +10,7 @@ nav_order: 3
 | Talent | Ability |
 |:------:|:-------:|
 | Sorcerer | Cast 1 more spell per day. Cast spells with Charisma. |
-| Warlock | Eldritch blast for 1d6 damage. Cast spells with Charisma. |
+| Warlock | Eldritch blast for 1d6 damage. Cast spells with Intelligence. |
 | Wizard | Prepare 1 more spell per day. Cast spells with Intelligence. |
 
 ## Divine Talents
@@ -25,7 +25,7 @@ nav_order: 3
 
 | Talent | Ability |
 |:------:|:-------:|
-| Bard | Skills |
+| Bard | +1 to all skills. |
 | Ranger | Animal companion. |
 | Rogue | Sneak attack for x3 damage if your target can’t see you. |
 
@@ -36,4 +36,3 @@ nav_order: 3
 | Barbarian | +2 damage with large weapons. |
 | Fighter | +1 damage with any weapon. |
 | Monk | +2 damage unarmed. Your fists and feet do d8 damage. |
-| Paladin | +2 damage to evil dragons, fiends and undead. |
