@@ -8,6 +8,9 @@ nav_order: 6
 ## Initiative
 Roll 1d20 + your Dexterity bonus. This determines what order combatants go in.
 
+## Dodge
+Your dodge score is equal to 10 + your Dexterity bonus. This determines how hard you are to hit.
+
 ## Attack
 Roll 1d20 + your bonus. If it’s equal to or greater than the monster’s dodge, the attack hits. Casting any spell counts as an attack.
 * Melee attacks use your Strength bonus, ranged attacks use your Dexterity bonus. Magic attacks use a mental attribute bonus defined by your talents.
