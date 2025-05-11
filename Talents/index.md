@@ -9,17 +9,17 @@ nav_order: 3
 
 | Talent | Ability |
 |:------:|:-------:|
-| Sorcerer | Cast 1 more spell per day. |
-| Warlock | Eldritch blast for 1d6 damage. |
-| Wizard | Prepare 1 more spell per day. |
+| Sorcerer | Cast 1 more spell per day. Cast spells with Charisma. |
+| Warlock | Eldritch blast for 1d6 damage. Cast spells with Charisma. |
+| Wizard | Prepare 1 more spell per day. Cast spells with Intelligence. |
 
 ## Divine Talents
 
 | Talent | Ability |
 |:------:|:-------:|
-| Cleric | Turn or command undead. Lay on Hands. |
-| Druid | Wild shape into an animal. |
-| Paladin | +2 damage to evil dragons, fiends and undead. |
+| Cleric | Turn or command undead. Lay on Hands. Cast spells with Wisdom. |
+| Druid | Wild shape into an animal. Cast spells with Wisdom. |
+| Paladin | +2 damage to evil dragons, fiends and undead. Cast spells with Charisma. |
 
 ## Expert Talents
 
