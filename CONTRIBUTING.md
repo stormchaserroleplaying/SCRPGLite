@@ -4,7 +4,7 @@ nav_exclude: true
 
 # Welcome to the Stormchaser RPG contributing guide <!-- omit in toc -->
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [stormchaserroleplaying.com/stormchaserRPG/](https://stormchaserroleplaying.com/stormchaserRPG/) :sparkles:.
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [stormchaserroleplaying.com/SCRPGLite/](https://stormchaserroleplaying.com/SCRPGLite/) :sparkles:.
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
@@ -68,4 +68,4 @@ Once you submit your PR, a Docs team member will review your proposal. We may as
 
 Congratulations :tada::tada: The Stormchaser Roleplaying team thanks you :sparkles:.
 
-Once your PR is merged, your contributions will be publicly visible on the [Stormchaser RPG](https://stormchaserroleplaying.com/stormchaserRPG/).
+Once your PR is merged, your contributions will be publicly visible on the [Stormchaser RPG Lite](https://stormchaserroleplaying.com/SCRPGLite/).
