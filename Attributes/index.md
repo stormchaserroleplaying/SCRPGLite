@@ -15,7 +15,7 @@ Much of what your character does in the game depends on their six attributes: **
 * **Wisdom** measures awareness, intuition and insight.
 * **Charisma** measures confidence and eloquence.
 
-You generate your character's six ability scores randomly. Roll 4d6 and record the total of the highest three dice. Do this five more times, so that you have six numbers. Alternatively, you can use the following scores instead: 15, 14, 13, 12, 10, 8.
+You generate your character's six ability scores randomly. Roll 4d6 and record the total of the highest three dice. Do this five more times, so that you have six numbers.
 
 Now take your six numbers and write each number beside one of your character's six abilities to assign scores to Strength, Dexterity, Constitution, Intelligence, Wisdom and Charisma.
 
