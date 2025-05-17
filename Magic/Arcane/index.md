@@ -1,6 +1,6 @@
 ---
-title: Arcane
-parent: Spells
+title: Arcane Spells
+parent: Magic
 ---
 
 # Arcane Spells

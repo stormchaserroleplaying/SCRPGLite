@@ -1,6 +1,6 @@
 ---
-title: Natural
-parent: Spells
+title: Natural Spells
+parent: Magic
 ---
 
 # Natural Spells

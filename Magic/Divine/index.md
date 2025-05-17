@@ -1,6 +1,6 @@
 ---
-title: Divine
-parent: Spells
+title: Divine Spells
+parent: Magic
 ---
 
 # Divine Spells
