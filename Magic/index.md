@@ -4,7 +4,7 @@ nav_order: 7
 ---
 
 # Magic
-At the beginning of each day, prepare spells. You can prepare a number of spell equal to your spellcasting attribute minus ten (see table below). This is also the number of spells that you may cast in a day.
+At the beginning of each day, prepare spells. Your spellcasting level is your spellcasting attribute minus ten (see table below). You can prepare a number of spell equal to this number. This is also the number of spells that you may cast in a day.
 
 * Clerics, Druids and Paladins get their spells from their deity or the natural world.
 * Sorcerers get their spells through metaphysical forces.
@@ -13,8 +13,8 @@ At the beginning of each day, prepare spells. You can prepare a number of spell 
 
 ## Preparing and Casting Spells
 
-| Casting Attribute | Spells Prepared/Castings per Day |
-|:-----------------:|:--------------------------------:|
+| Casting Attribute | Spell Level/Spells Prepared/Castings per Day |
+|:-----------------:|:--------------------------------------------:|
 | 11 | 1 |
 | 12 | 2 |
 | 13 | 3 |
