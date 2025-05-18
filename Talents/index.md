@@ -7,11 +7,11 @@ nav_order: 3
 
 ## Arcane Talents
 
-| Talent | Ability |
-|:------:|:-------:|
-| Sorcerer | Cast 1 more spell per day. Cast arcane spells with Charisma. |
-| Warlock | Eldritch blast for 1d6 damage. Cast arcane spells with Intelligence. |
-| Wizard | Prepare 1 more spell per day. Cast arcane spells with Intelligence. |
+| Talent   | Ability                                                              |
+|:--------:|:--------------------------------------------------------------------:|
+| Sorcerer | Cast 1 more spell per day. Cast arcane spells with Charisma.         |
+| Warlock  | Eldritch blast (Int-based attack) for 1d6 damage. Cast arcane spells with Intelligence. |
+| Wizard   | Prepare 1 more spell per day. Cast arcane spells with Intelligence.  |
 
 ## Divine Talents
 

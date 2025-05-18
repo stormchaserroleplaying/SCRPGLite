@@ -7,7 +7,7 @@ nav_order: 2
 
 | Species   | Attribute Bonus                       | Ability |
 |:---------:|:-------------------------------------:|:-------:|
-| Dragonkin | +2 Str, +1 Cha                        | Choose acid, cold, fire, lightning, or poison.<br>Resist this damage type and breathe it for 1d6 damage. |
+| Dragonkin | +2 Str, +1 Cha                        | Choose acid, cold, fire, lightning, or poison.<br>Resist this damage type and breathe it for 1d6 damage (Con-based attack). |
 | Dwarf     | +2 Con, +1 Wis                        | See in darkness. Resist poison.<br>+1 damage with axes and hammers. |
 | Elf       | +2 Dex,<br>+1 Int or +1 Wis           | Doesn't need to sleep.<br>+1 damage with magic and ranged weapons. |
 | Gnome     | +2 Int,<br>+1 Dex or +1 Con           | Cast *animal friendship* and *speak with animals* at will. |

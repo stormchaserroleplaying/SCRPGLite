@@ -6,10 +6,10 @@ nav_order: 6
 # Combat
 
 ## Initiative
-Roll 1d20 + your Dexterity bonus. This determines what order combatants go in.
+Roll 1d20 + your Dexterity bonus - your armour penalty. This determines what order combatants go in.
 
-## Dodge
-Your dodge score is equal to 10 + your Dexterity bonus. This determines how hard you are to hit.
+## Defence
+Your defence score is equal to 10 + your Dexterity bonus + any bonus from a shield. This determines how hard you are to hit.
 
 ## Attack
 Roll 1d20 + your bonus. If it’s equal to or greater than the monster’s dodge, the attack hits. Casting any spell counts as an attack.

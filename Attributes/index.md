@@ -6,7 +6,7 @@ nav_order: 1
 # Attributes
 Start by generating your character's attributes.
 
-Much of what your character does in the game depends on their six attributes: **Strength**, **Dexterity**, **Constitution**, **Intelligence**, **Wisdom** and **Charisma**. Each attribute has a score, which is a number that you record on your character sheet.
+Much of what your character does in the game depends on their six attributes: **Strength**, **Dexterity**, **Constitution**, **Intelligence**, **Wisdom** and **Charisma**. Each attribute has a score, which is a number that you record on your character sheet. **Strength**, **Dexterity** and **Constitution** are considered physical attributes, whereas **Intelligence**, **Wisdom** and **Charisma** are mental attributes.
 
 * **Strength** measures athleticism and bodily power.
 * **Dexterity** measures agility, reflexes, balance and poise.
