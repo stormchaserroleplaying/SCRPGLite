@@ -13,14 +13,14 @@ Pick 2 weapons, or 1 weapon and a shield.
 ## Melee Weapons
 
 | Weapon Size | Example                                                              | Damage |
-|:-----------:|:--------------------------------------------------------------------:|:------:|
+|:-----------:|:---------------------------------------------------------------------|:------:|
 | Small       | Dagger, hatchet, kama, light hammer, light pick, sap, sickle, whip.  | d4     |
 | Medium      | Handaxe, mace, morningstar, rapier, scimitar, shortsword, warpick.   | d6     |
 | Large       | Battleaxe, club, flail, longsword, spear, staff, trident, warhammer. | d8     |
 | Huge        | Glaive, greataxe, greatclub, greatsword, halberd, lance, maul, pike. | d12    |
 
 | Weapon Size | Example                           | Damage |
-|:-----------:|:---------------------------------:|:------:|
+|:-----------:|:----------------------------------|:------:|
 | Small       | Blowgun, dart, sling.             | d4     |
 | Medium      | Hand crossbow, javelin, shortbow. | d6     |
 | Large       | Light crossbow, longbow.          | d8     |
@@ -32,7 +32,7 @@ Then choose 1 suit of armour.
 * The armour penalty applies to initiative and physical skills.
 
 | Armour | Example                                           | Damage Reduction | Penalty |
-|:------:|:-------------------------------------------------:|:----------------:|:-------:|
+|:------:|:-------------------------------------------------_|:----------------:|:-------:|
 | None   | Clothes, rags, habit, keikogi.                    | 0                | 0       |
 | Light  | Leather, padded, studded, chain shirt.            | 2                | -2      |
 | Medium | Hide, scale mail, chain mail, breastplate.        | 4                | -4      |
