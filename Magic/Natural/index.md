@@ -22,7 +22,7 @@ parent: Magic
 
 **Entangle:** Creatures within a 15-foot-radius sphere are immobilized by roots, grass, and weeds. Save for slowed movement.
 
-**Goodberry:** Up to ten berries appear and are infused with magic for the duration. Eating a berry restores 1 HP and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within a day of the casting of this spell.
+**Goodberry:** Up to ten berries appear and are infused with magic for the duration. Eating a berry restores 1 Stamina and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within a day of the casting of this spell.
 
 **Insect Plague:** Creeping, hopping, and flying insects fill a 15-foot-radius sphere for 10 minutes. Creatures take 1d4 damage + 1d4 every 2 levels.
 
