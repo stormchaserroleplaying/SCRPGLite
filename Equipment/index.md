@@ -32,7 +32,7 @@ Then choose 1 suit of armour.
 * The armour penalty applies to initiative and physical skills.
 
 | Armour | Example                                           | Damage Reduction | Penalty |
-|:------:|:-------------------------------------------------_|:----------------:|:-------:|
+|:------:|:--------------------------------------------------|:----------------:|:-------:|
 | None   | Clothes, rags, habit, keikogi.                    | 0                | 0       |
 | Light  | Leather, padded, studded, chain shirt.            | 2                | -2      |
 | Medium | Hide, scale mail, chain mail, breastplate.        | 4                | -4      |
