@@ -11,15 +11,19 @@ Pick the monster’s size, type, role and level. Describe the damage based on wh
 
 ## Monster Sizes
 
-| Size       | Initiative/Physical Skills | hp     | Number of Attacks | Damage |
-|:----------:|:--------------------------:|:------:|:-----------------:|:------:|
-| Small      | +4                         | ×½ HD  | 1                 | d4     |
-| Medium     | +2                         | ×1 HD  | 1                 | d6     |
-| Large      | +0                         | ×4 HD  | 2                 | d8     |
-| Huge       | -2                         | ×8 HD  | 3                 | d10    |
-| Gargantuan | -4                         | ×12 HD | 4                 | d12    |
+| Size       | Initiative | hp     | Number of Attacks | Damage |
+|:----------:|:----------:|:------:|:-----------------:|:------:|
+| Small      | +5         | ×½ HD  | 1                 | d4     |
+| Medium     | +3         | ×1 HD  | 1                 | d6     |
+| Large      | +1         | ×4 HD  | 2                 | d8     |
+| Huge       | -1         | ×8 HD  | 3                 | d10    |
+| Gargantuan | -3         | ×12 HD | 4                 | d12    |
 
-Small monsters are like goblins and kobolds. Medium monsters are like skeletons and orcs. Large monsters are like ogres and trolls. Huge monsters are like giants and elementals. Gargantuan monsters are like dragons.
+* Small monsters are like goblins and kobolds.
+* Medium monsters are like skeletons and orcs.
+* Large monsters are like ogres and trolls.
+* Huge monsters are like giants and elementals.
+* Gargantuan monsters are like dragons.
 
 ## Monster Types
 
