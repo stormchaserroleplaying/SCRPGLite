@@ -7,7 +7,7 @@ parent: Monsters
 
 ## Banshee
 
-##### Medium Undead Smasher
+### Medium Undead Smasher
 
 **STR** 1 (-5), **DEX** 14 (+2), **CON** 10 (+0), **INT** 12 (+1), **WIS** 11 (+0), **CHA** 17 (+3)
 
@@ -15,7 +15,7 @@ parent: Monsters
 
 Fly, immune to non-magical weapons, incorporeal
 
-__**Attacks**__
+#### Attacks
 
 * **Touch:** Dexterity attack vs. Dexterity defence. 2d6 damage.
 * **Gaze:** Charisma attack vs. Wisdom defence. 2d6 damage.
