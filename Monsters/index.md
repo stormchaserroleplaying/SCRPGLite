@@ -7,7 +7,7 @@ nav_order: 9
 # Monsters
 
 ## Making Monsters
-Pick the monster’s size, type, role and level. Describe the damage based on what the monster would be attacking with: claw, pseudopod, longsword, fire breath, etc. Apply a bonus to the monster's attack based on its level. Powerful attacks recharge on a roll of a 5 or 6 on a d6. Finally, remember that these numbers are just **guidelines** and should be altered to fit the situation.
+Pick the monster’s size, type and role. Describe the damage based on what the monster would be attacking with: claw, pseudopod, longsword, fire breath, etc. Apply a bonus to the monster's attack based on its attributes. Powerful attacks recharge on a roll of a 5 or 6 on a d6. Finally, remember that these numbers are just **guidelines** and should be altered to fit the situation.
 
 ## Monster Sizes
 
@@ -43,8 +43,8 @@ Pick the monster’s size, type, role and level. Describe the damage based on wh
 
 ## Monster Roles
 
-| Role    | Stamina | Special                                                                                         |
-|:-------:|:-------:|:-----------------------------------------------------------------------------------------------:|
-| Smasher | d10     | +2 to saves against physical attacks, one extra attack.                                         |
-| Sneaker | d8      | +2 to saves against everything, sneak attack characters that don’t see you for d6 extra damage. |
-| Caster  | d6      | +2 to saves against magical attacks, and cast a few spells once a day.                          |
+| Role    | Stamina | Special                                                                             |
+|:-------:|:-------:|:-----------------------------------------------------------------------------------:|
+| Smasher | ×3      | +2 to physical defences, one extra attack.                                          |
+| Sneaker | ×2      | +2 to all defences, sneak attack characters that don’t see you for d6 extra damage. |
+| Caster  | ×1      | +2 to mental defences, and cast a few spells once a day.                            |

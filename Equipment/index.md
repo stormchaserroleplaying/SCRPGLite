@@ -28,7 +28,7 @@ Pick 2 weapons, or 1 weapon and a shield.
 
 Then choose 1 suit of armour.
 * If you’re a Druid, you are forbidden from using refined metal, so your equipment is made from bone, leather, or stone.
-* Shields grants a +1 bonus to defence.
+* Shields grants a +1 bonus to Dexterity defence.
 * The armour penalty applies to initiative and physical skills.
 
 | Armour | Example                                           | Damage Reduction | Penalty |

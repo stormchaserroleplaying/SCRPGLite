@@ -6,14 +6,14 @@ parent: Monsters
 # Undead
 
 ## Banshee
-Level 4 medium undead smasher.
+Medium Undead Smasher
 
-Strength 1 (-5), Dexterity 14 (+2), Constitution 10 (+0), Intelligence 12 (+1), Wisdom 11 (+0), Charisma 17 (+3)
+STR 1 (-5), DEX 14 (+2), CON 10 (+0), INT 12 (+1), WIS 11 (+0), CHA 17 (+3)
 
-Defence 12, Initiative +2, Stamina 30
+Initiative +2, Stamina 50
 
 2 Attacks (gaze, touch), 2d10 damage
 
 Fly, immune to non-magical weapons, incorporeal
 
-Wail (1/day): Charisma attack vs. Constitution Defence to hit. On a hit, characters within 30 feet that can hear the banshee drop to 0 hit points.
+Wail (1/day): Charisma attack vs. Constitution Defence. On hit, characters within 30 feet that can hear the banshee drop to 0 Stamina.

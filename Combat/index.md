@@ -9,7 +9,7 @@ nav_order: 6
 Roll 1d20 + your Dexterity bonus - your armour penalty. This determines what order combatants go in.
 
 ## Defence
-Your defence score is equal to 10 + your Dexterity bonus + any bonus from a shield. This determines how hard you are to hit.
+Your defence score is equal to 10 + your attribute bonus + any bonus (e.g. from a shield). This determines how hard you are to hit.
 
 ## Attack
 Roll 1d20 + your bonus. If it’s equal to or greater than the monster’s dodge, the attack hits. Casting any spell counts as an attack.
