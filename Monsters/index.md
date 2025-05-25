@@ -39,7 +39,7 @@ Pick the monster’s size, type and role. Describe the damage based on what the 
 | Ooze      | Acid damage, acid resistance, body shape modification, envelop characters, immune to magic, reach, split when hit.                  |
 | Plant     | Cast entangle and wall of thorns, dominate minds with spores, envelop characters, immobilize with vines, poison damage.             |
 | Robot     | It can’t be bargained with. It can’t be reasoned with. It doesn’t feel pity, or remorse, or fear. And it absolutely will not stop.  |
-| Undead    | Drain levels, immune to mind effects, poison, or disease, vulnerable to holy attacks, 20 extra Stamina, x2 damage.                  |
+| Undead    | Immune to mind effects, poison, or disease, vulnerable to holy attacks, 20 extra Stamina, x2 damage.                                |
 
 ## Monster Roles
 
