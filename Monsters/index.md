@@ -23,8 +23,8 @@ Small monsters are like goblins and kobolds. Medium monsters are like skeletons 
 
 ## Monster Types
 
-| Type      | Ability Suggestions |
-|:---------:|:-------------------:|
+| Type      | Ability Suggestions                                                                                                                |
+|:----------|:-----------------------------------------------------------------------------------------------------------------------------------|
 | Aberrant  | Bizarre anatomy, inflict madness, telekinesis, telepathy, tentacles that cast spells, 100 extra HP, +5 to saves against magic.     |
 | Animal    | Additional movement type (burrow, fly, sprint, swim), charge, overrun, trample, x2 damage with natural weapons.                    |
 | Devil     | Banishment, fly, immunity to fire, summon minor devils, telepathy, teleportation, 100 extra HP, x2 damage.                         |
