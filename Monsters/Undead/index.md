@@ -8,24 +8,38 @@ parent: Monsters
 ## Banshee
 
 ### Medium Undead Smasher
-
 **STR** 1 (-5), **DEX** 14 (+2), **CON** 10 (+0), **INT** 12 (+1), **WIS** 11 (+0), **CHA** 17 (+3)
 
-+2 to STR, DEX and CON Defence
+**Initiative:** +2, **Stamina:** 60
 
-**Initiative** +2, **Stamina** 60
-
-Fly, immune to non-magical weapons, incorporeal
+#### Abilities
+* +2 to STR, DEX and CON defence
+* Fly
+* Immune to non-magical weapons
+* Incorporeal
 
 #### Attacks
 2 per round of:
-
 * **Touch:** Dexterity attack vs. Dexterity defence. 2d6 damage.
 * **Gaze:** Charisma attack vs. Wisdom defence. 2d6 damage.
-* **Wail (1/day):** Charisma attack vs. Constitution Defence. On hit, characters within 30 feet that can hear the banshee drop to 0 Stamina.
+* **Wail (1/day):** Charisma attack vs. Constitution defence. On hit, characters within 30 feet that can hear the banshee drop to 0 Stamina.
 
 ## Ghost
-Level 5 medium undead sneaker. AC 13, ST +2 all, MV 12 (fly, incorporeal), HP 28, #ATT 1 (touch), DMG 2d6. Sneak attack for d6 when hidden. Immune to non-magical weapons, disease, and poison. Possession (2/day): In place of an attack, enter and dominate 1 character’s body. The ghost can’t be targeted by attacks except turn undead. Remain until the body drops to 0 HP; save avoids.
+
+### Level 5 Medium Undead Sneaker
+**STR** 7 (-2), **DEX** 13 (+1), **CON** 10 (+0), **INT** 10 (+0), **WIS** 12 (+1), **CHA** 17 (+3)
+
+**Initiative:** +2, **Stamina:** 50
+
+#### Abilities
+* +2 to all defences
+* Fly
+* Immune to immune to disease, non-magical weapons and poison
+* Incorporeal
+
+#### Attacks
+* **Touch:** Dexterity attack vs. Dexterity defence. DMG 2d6. Sneak attack for +1d6 when hidden.
+* **Possession (2/day):** Charisma attack vs. Charisma defence. In place of an attack, enter and dominate 1 character’s body. While possessing, the ghost can’t be targeted by attacks except turn undead and remains until the body drops to 0 Stamina.
 
 ## Ghoul
 Level 4 medium undead smasher. AC 12, ST +2 physical, MV 12, HP 30, # ATT 2 (bite, claw), DMG 2d6. Immune to mind effects, disease, and poison. Ravenous Bite: Attacks cause paralysis; save avoids.
