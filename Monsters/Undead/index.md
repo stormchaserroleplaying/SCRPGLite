@@ -26,7 +26,7 @@ parent: Monsters
 
 ## Ghost
 
-### Level 5 Medium Undead Sneaker
+### Medium Undead Sneaker
 **STR** 7 (-2), **DEX** 13 (+1), **CON** 10 (+0), **INT** 10 (+0), **WIS** 12 (+1), **CHA** 17 (+3)
 
 **Initiative:** +2, **Stamina:** 50
@@ -38,6 +38,7 @@ parent: Monsters
 * Incorporeal
 
 #### Attacks
+1 per round of:
 * **Touch:** Dexterity attack vs. Dexterity defence. DMG 2d6. Sneak attack for +1d6 when hidden.
 * **Possession (2/day):** Charisma attack vs. Charisma defence. In place of an attack, enter and dominate 1 character’s body. While possessing, the ghost can’t be targeted by attacks except turn undead and remains until the body drops to 0 Stamina.
 
