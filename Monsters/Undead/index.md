@@ -13,7 +13,7 @@ parent: Monsters
 **Initiative:** +2, **Stamina:** 60
 
 #### Abilities
-* +2 to STR, DEX and CON defence
+* +2 to physical defences
 * Fly
 * Immune to non-magical weapons
 * Incorporeal
@@ -39,11 +39,24 @@ parent: Monsters
 
 #### Attacks
 1 per round of:
-* **Touch:** Dexterity attack vs. Dexterity defence. DMG 2d6. Sneak attack for +1d6 when hidden.
+* **Touch:** Dexterity attack vs. Dexterity defence. 2d6 damage. Sneak attack for +1d6 when hidden.
 * **Possession (2/day):** Charisma attack vs. Charisma defence. In place of an attack, enter and dominate 1 character’s body. While possessing, the ghost can’t be targeted by attacks except turn undead and remains until the body drops to 0 Stamina.
 
 ## Ghoul
-Level 4 medium undead smasher. AC 12, ST +2 physical, MV 12, HP 30, # ATT 2 (bite, claw), DMG 2d6. Immune to mind effects, disease, and poison. Ravenous Bite: Attacks cause paralysis; save avoids.
+
+### Medium Undead Smasher
+**STR** 13 (+1), **DEX** 15 (+2), **CON** 10 (+0), **INT** 7 (-2), **WIS** 10 (+0), **CHA** 6 (-2)
+
+**Initiative:** +2, **Stamina:** 60
+
+#### Abilities
+* +2 to physical defences
+* Immune to disease, mind effects and poison
+
+#### Attacks
+2 per round of:
+* **Bite:** Strength attack vs. Strength defence. 2d6 damage. Causes paralysis.
+* **Claw** Dexterity attack vs. Dexterity defence. 2d6 damage. Causes paralysis.
 
 ## Lich
 Level 13 medium undead caster. AC 21, ST +10 magical, MV 12, HP 106, #ATT 3 (claw, gaze), DMG d6. Immune to disease and poison. Spellcasting: In place of an attack, cast animate dead, burning hands, darkness, fireball, magic missile, sleep, time stop, or wall of force, once each. Level Drain 56: As an attack, drain 1 level from 1 character. Power Word Kill (1/day): In place of an attack, 1 character dies instantly. No attack, no save. Rejuvenation: If it has a phylactery, a destroyed lich gains a new body in d10 days within 5 feet of the phylactery.
