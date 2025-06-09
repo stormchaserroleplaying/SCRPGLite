@@ -10,7 +10,7 @@ parent: Monsters
 ### Medium Undead Smasher
 **STR** 1 (-5), **DEX** 14 (+2), **CON** 10 (+0), **INT** 12 (+1), **WIS** 11 (+0), **CHA** 17 (+3)
 
-**Initiative:** +2, **Stamina:** 60
+**Initiative:** +2, **DR** 0, **Stamina:** 60
 
 #### Abilities
 * +2 to physical defences
@@ -29,7 +29,7 @@ parent: Monsters
 ### Medium Undead Sneaker
 **STR** 7 (-2), **DEX** 13 (+1), **CON** 10 (+0), **INT** 10 (+0), **WIS** 12 (+1), **CHA** 17 (+3)
 
-**Initiative:** +2, **Stamina:** 50
+**Initiative:** +2, **DR:** 0, **Stamina:** 50
 
 #### Abilities
 * +2 to all defences
@@ -47,7 +47,7 @@ parent: Monsters
 ### Medium Undead Smasher
 **STR** 13 (+1), **DEX** 15 (+2), **CON** 10 (+0), **INT** 7 (-2), **WIS** 10 (+0), **CHA** 6 (-2)
 
-**Initiative:** +2, **Stamina:** 60
+**Initiative:** +2, **DR:** 0, **Stamina:** 60
 
 #### Abilities
 * +2 to physical defences
@@ -59,7 +59,13 @@ parent: Monsters
 * **Claw** Dexterity attack vs. Dexterity defence. 2d6 damage. Causes paralysis.
 
 ## Lich
-Level 13 medium undead caster. AC 21, ST +10 magical, MV 12, HP 106, #ATT 3 (claw, gaze), DMG d6. Immune to disease and poison. Spellcasting: In place of an attack, cast animate dead, burning hands, darkness, fireball, magic missile, sleep, time stop, or wall of force, once each. Level Drain 56: As an attack, drain 1 level from 1 character. Power Word Kill (1/day): In place of an attack, 1 character dies instantly. No attack, no save. Rejuvenation: If it has a phylactery, a destroyed lich gains a new body in d10 days within 5 feet of the phylactery.
+
+### Medium Undead Caster
+**STR** 11 (+0), **DEX** 16 (+3), **CON** 16 (+3), **INT** 20 (+5), **WIS** 14 (+2), **CHA** 16 (+3)
+
+**Initiative:** +2, **DR:** 4, **Stamina:** 52
+
+ST +10 magical, #ATT 3 (claw, gaze), DMG d6. Immune to disease and poison. Spellcasting: In place of an attack, cast animate dead, burning hands, darkness, fireball, magic missile, sleep, time stop, or wall of force, once each. Level Drain 56: As an attack, drain 1 level from 1 character. Power Word Kill (1/day): In place of an attack, 1 character dies instantly. No attack, no save. Rejuvenation: If it has a phylactery, a destroyed lich gains a new body in d10 days within 5 feet of the phylactery.
 
 ## Mummy
 Level 10 medium undead smasher. AC 18, ST +2 physical, MV 12, HP 110, #ATT 3 (slam, gaze), DMG d6. Immune to disease and poison. Frightening Presence (1/day): Characters within 30 feet run away in fear; save avoids. Final Curse: The character who kills the mummy is cursed.
