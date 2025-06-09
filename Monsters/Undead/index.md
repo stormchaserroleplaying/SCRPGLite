@@ -65,10 +65,23 @@ parent: Monsters
 
 **Initiative:** +2, **DR:** 4, **Stamina:** 52
 
-ST +10 magical, #ATT 3 (claw, gaze), DMG d6. Immune to disease and poison. Spellcasting: In place of an attack, cast animate dead, burning hands, darkness, fireball, magic missile, sleep, time stop, or wall of force, once each. Level Drain 56: As an attack, drain 1 level from 1 character. Power Word Kill (1/day): In place of an attack, 1 character dies instantly. No attack, no save. Rejuvenation: If it has a phylactery, a destroyed lich gains a new body in d10 days within 5 feet of the phylactery.
+#### Abilities
+* +2 to mental defences
+* Immune to disease and poison
+* Rejuvenation: If it has a phylactery, a destroyed lich gains a new body in 1d10 days within 5 feet of the phylactery.
+
+#### Attacks
+3 per round of:
+* **Claw:** Dexterity attack vs. Dexterity defence. 1d6 damage.
+* **Gaze:** Intelligence attack vs. Intelligence defence. 1d6 damage.
+* **Spellcasting:** In place of an attack, cast *animate dead*, *burning hands*, *darkness*, *fireball*, *magic missile*, *sleep*, *time stop*, or *wall of force*, once each.
+* **Energy Drain:** As an attack, drain from one character: 1 talent, 1 stat point and stamina equal to the character's constitution score. Recharges on a 5 or 6 rolled on 1d6.
+* **Power Word Kill (1/Day):** In place of an attack, 1 character dies instantly. No attack.
 
 ## Mummy
-Level 10 medium undead smasher. AC 18, ST +2 physical, MV 12, HP 110, #ATT 3 (slam, gaze), DMG d6. Immune to disease and poison. Frightening Presence (1/day): Characters within 30 feet run away in fear; save avoids. Final Curse: The character who kills the mummy is cursed.
+
+### Medium Undead Smasher
+AC 18, ST +2 physical, MV 12, HP 110, #ATT 3 (slam, gaze), DMG d6. Immune to disease and poison. Frightening Presence (1/day): Characters within 30 feet run away in fear; save avoids. Final Curse: The character who kills the mummy is cursed.
 
 ## Shadow
 Level 7 medium undead sneaker. AC 15, ST +2 all, MV 12 (fly, incorporeal), HP 28, #ATT 1 (touch), DMG 2d6. Sneak attack for d6 when hidden. Immune to non-magical weapons, disease, and poison. Level Drain 56: As an attack, drain 1 level from 1 character.
