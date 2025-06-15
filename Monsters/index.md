@@ -48,3 +48,4 @@ Pick the monster’s size, type and role. Describe the damage based on what the 
 | Smasher | ×4      | +2 to physical defences, one extra attack.                                          |
 | Sneaker | ×3      | +2 to all defences, sneak attack characters that don’t see you for d6 extra damage. |
 | Caster  | ×2      | +2 to mental defences, and cast a few spells once a day.                            |
+| Minion  | ×1      | -                                                                                   |
