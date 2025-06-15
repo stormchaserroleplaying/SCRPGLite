@@ -19,5 +19,5 @@ grand_parent: Monsters
 
 ### Attacks
 1 per round of:
-* **Touch:** Dexterity attack vs. Dexterity defence. 2d6 damage. Sneak attack for +1d6 when hidden.
+* **Touch:** Dexterity attack vs. Dexterity defence. 2d6 damage. Sneak attack for +1d6 when hidden. Ignores non-magical DR.
 * **Possession (2/day):** Charisma attack vs. Charisma defence. In place of an attack, enter and dominate 1 character’s body. While possessing, the ghost can’t be targeted by attacks except turn undead and remains until the body drops to 0 Stamina.

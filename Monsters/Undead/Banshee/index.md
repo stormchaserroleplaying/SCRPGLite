@@ -19,6 +19,6 @@ grand_parent: Monsters
 
 ### Attacks
 2 per round of:
-* **Touch:** Dexterity attack vs. Dexterity defence. 2d6 damage.
-* **Gaze:** Charisma attack vs. Wisdom defence. 2d6 damage.
+* **Touch:** Dexterity attack vs. Dexterity defence. 2d6 damage. Ignores non-magical DR.
+* **Gaze:** Charisma attack vs. Wisdom defence. 2d6 damage. Ignores non-magical DR.
 * **Wail (1/day):** Charisma attack vs. Constitution defence. On hit, characters within 30 feet that can hear the banshee drop to 0 Stamina.
