@@ -13,11 +13,11 @@ Pick the monster’s size, type and role. Describe the damage based on what the 
 
 | Size       | Initiative | Stamina | Number of Attacks | Damage |
 |:----------:|:----------:|:-------:|:-----------------:|:------:|
-| Small      | +5         | ×½      | 1                 | d4     |
-| Medium     | +3         | ×1      | 1                 | d6     |
-| Large      | +1         | ×4      | 2                 | d8     |
-| Huge       | -1         | ×8      | 3                 | d10    |
-| Gargantuan | -3         | ×12     | 4                 | d12    |
+| Small      | +1         | ×½      | 1                 | d4     |
+| Medium     | +0         | ×1      | 1                 | d6     |
+| Large      | -1         | ×2      | 2                 | d8     |
+| Huge       | -2         | ×3      | 3                 | d10    |
+| Gargantuan | -5         | ×4      | 4                 | d12    |
 
 * Small monsters are like goblins and kobolds.
 * Medium monsters are like skeletons and orcs.
