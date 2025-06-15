@@ -16,6 +16,6 @@ grand_parent: Monsters
 * Resistance to slashing and piercing attacks
 * **Boneshard Burst:** When killed, characters within 5 feet take 1d4 damage.
 
-### Attack
+### Attacks
 1 per round of:
 * **Shortsword:** Dexterity attack vs. Dexterity defence. 2d6 damage. 
