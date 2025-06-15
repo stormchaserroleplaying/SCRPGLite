@@ -6,11 +6,6 @@ has_children: true
 
 # Undead
 
-## Mummy
-
-### Medium Undead Smasher
-AC 18, ST +2 physical, MV 12, HP 110, #ATT 3 (slam, gaze), DMG d6. Immune to disease and poison. Frightening Presence (1/day): Characters within 30 feet run away in fear; save avoids. Final Curse: The character who kills the mummy is cursed.
-
 ## Shadow
 Level 7 medium undead sneaker. AC 15, ST +2 all, MV 12 (fly, incorporeal), HP 28, #ATT 1 (touch), DMG 2d6. Sneak attack for d6 when hidden. Immune to non-magical weapons, disease, and poison. Level Drain 56: As an attack, drain 1 level from 1 character.
 

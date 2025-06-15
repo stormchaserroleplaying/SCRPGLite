@@ -14,7 +14,7 @@ grand_parent: Monsters
 ### Abilities
 * +2 to mental defences
 * Immune to disease and poison
-* Rejuvenation: If it has a phylactery, a destroyed lich gains a new body in 1d10 days within 5 feet of the phylactery.
+* **Rejuvenation:** If it has a phylactery, a destroyed lich gains a new body in 1d10 days within 5 feet of the phylactery.
 
 ### Attacks
 3 per round of:
