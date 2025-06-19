@@ -37,3 +37,6 @@ After assigning your attributes, determine your attribute modifiers using the ta
 
 ## Stamina
 You start your career with an amount of Stamina equal to your Constitution score.
+
+## Mana
+If you have a talent that allows you to cast spells, then you have an amount of Mana equal to your spellcasting attribute modifier.
