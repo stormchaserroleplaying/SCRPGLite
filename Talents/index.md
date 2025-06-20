@@ -5,13 +5,26 @@ nav_order: 3
 
 # Talents
 
+## Attribute Talents
+
+You may take these talents multiple times. You cannot raise an attribute above 20.
+
+| Talent   | Ability                                    |
+|:--------:|:-------------------------------------------|
+| Bull's Strength   | Add 1 to your Strength score.     |
+| Cat's Grace       | Add 1 to your Dexterity score.    |
+| Bear's Endurance  | Add 1 to your Constitution score. |
+| Fox's Cunning     | Add 1 to your Intelligence score. |
+| Owl's Wisdom      | Add 1 to your Dexterity score.    |
+| Eagle's Splendour | Add 1 to your Constitution score. |
+
 ## Arcane Talents
 
-| Talent   | Ability                                                              |
-|:--------:|:---------------------------------------------------------------------|
-| Sorcerer | Cast 1 more spell per day. Cast arcane spells with Charisma.         |
+| Talent   | Ability                                                                                 |
+|:--------:|:----------------------------------------------------------------------------------------|
+| Sorcerer | Cast 1 more spell per day. Cast arcane spells with Charisma.                            |
 | Warlock  | Eldritch blast (Int-based attack) for 1d6 damage. Cast arcane spells with Intelligence. |
-| Wizard   | Prepare 1 more spell per day. Cast arcane spells with Intelligence.  |
+| Wizard   | Prepare 1 more spell per day. Cast arcane spells with Intelligence.                     |
 
 ## Divine Talents
 
