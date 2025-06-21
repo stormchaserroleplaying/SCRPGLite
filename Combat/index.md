@@ -31,4 +31,4 @@ You can get where you need be from round to round. For longer distances, assume 
 A round is about 6 seconds. Everyone acts at about the same time.
 
 ## Recovery
-Stamina represent a combination of physical and mental durability, the will to live and luck. Recover your max stamina after 8 hours of rest, or half your max Stamina after 4 hours or rest. Elves still need to rest to heal.
+After 8 hours of rest, recover your max stamina and mana, or half after 4 hours or rest. Elves still need to rest to heal.

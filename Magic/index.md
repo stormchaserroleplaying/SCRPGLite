@@ -5,17 +5,25 @@ nav_order: 7
 ---
 
 # Magic
-At the beginning of each day, prepare spells. Your spellcasting level is your spellcasting attribute minus ten (see table below). You can prepare a number of spell equal to this number. This is also the number of spells that you may cast in a day.
+Your talents determine your spellcasting type.
 
-* Clerics, Druids and Paladins get their spells from their deity or the natural world.
-* Sorcerers get their spells through metaphysical forces.
-* Warlocks make bargains with extraplanar entities.
-* Wizards keep their spells in a spellbook.
+## Prepared Spellcasters
+Divine spellcasters (Clerics, Druids and Paladins) get their spells from their deity, or the natural world. At the beginning of each day, they pray to determine the spells granted to them.
 
-## Preparing and Casting Spells
+Wizards are arcane spellcasters, who know a wide variety of spells, which they keep in a spellbook. At the beginning of each day, a wizard prepares a selection of the spells in their spellbook for use.
 
-| Casting Attribute | Spell Level/Spells Prepared/Castings per Day |
-|:-----------------:|:--------------------------------------------:|
+Prepared spellcasters prepare a number of spells equal to their spellcasting ability modifier.
+
+## Spontanous Spellcasters
+Sorcerers get their spells through metaphysical forces and Warlocks make bargains with extraplanar entities. These are spontaneous spellcasters, who only know a limited number of spells.
+
+Spontaneous spellcasters know a number of spells equal to their spellcasting ability modifier.
+
+## Spellcasting Level
+Your spellcasting level is your spellcasting attribute minus ten (see table below).
+
+| Casting Attribute | Spell Level |
+|:-----------------:|:-----------:|
 | 11 | 1 |
 | 12 | 2 |
 | 13 | 3 |

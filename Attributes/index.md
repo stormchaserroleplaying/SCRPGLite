@@ -37,7 +37,7 @@ After assigning your attributes, determine your attribute modifiers using the ta
 | 20    | +5 |
 
 ## Stamina
-You start your career with an amount of Stamina equal to your Constitution score.
+**Stamina** represent a combination of physical and mental durability, the will to live and luck. You start your career with an amount of Stamina equal to your Constitution score.
 
 ## Mana
-If you have a talent that allows you to cast spells, then you have an amount of Mana equal to your spellcasting attribute modifier.
+**Mana** is the raw energy of the supernatural force that permeates the universe. If you have a talent that allows you to cast spells, then you have an amount of Mana equal to your spellcasting attribute modifier.
