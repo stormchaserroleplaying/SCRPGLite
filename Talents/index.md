@@ -12,13 +12,13 @@ nav_order: 3
 
 | Talent              | Ability                                                      |
 |:-------------------:|:-------------------------------------------------------------|
-| Bull's Strength     | Add 1 to your Str score.                                     |
-| Cat's Grace         | Add 1 to your Dex score.                                     |
-| Bear's Endurance    | Add 1 to your Con score.                                     |
-| Fox's Cunning       | Add 1 to your Int score.                                     |
-| Owl's Wisdom        | Add 1 to your Dex score.                                     |
-| Eagle's Splendour   | Add 1 to your Con score.                                     |
-| Warrior's Toughness | Add your Con score to your Stamina total.                    |
+| Bull's Strength     | Add 1 to your STR score.                                     |
+| Cat's Grace         | Add 1 to your DEX score.                                     |
+| Bear's Endurance    | Add 1 to your CON score.                                     |
+| Fox's Cunning       | Add 1 to your INT score.                                     |
+| Owl's Wisdom        | Add 1 to your WIS score.                                     |
+| Eagle's Splendour   | Add 1 to your CON score.                                     |
+| Warrior's Toughness | Add your CON score to your Stamina total.                    |
 | Mage's Power        | Add your spellcasting attribute modifier to your mana total. |
 
 ## Arcane Talents
