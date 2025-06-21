@@ -33,7 +33,8 @@ After assigning your attributes, determine your attribute modifiers using the ta
 | 12–13 | +1 |
 | 14–15 | +2 |
 | 16–17 | +3 |
-| 18    | +4 |
+| 18-19 | +4 |
+| 20    | +5 |
 
 ## Stamina
 You start your career with an amount of Stamina equal to your Constitution score.
