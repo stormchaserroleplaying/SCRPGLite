@@ -38,10 +38,10 @@ You may take these talents multiple times. You cannot raise an attribute above 2
 
 | Talent | Ability |
 |:------:|:--------|
-| Bad Feeling | +2 to initiative. |
-| Jack of all Trades | +1 to all skills. |
-| Ranger | Animal companion. |
-| Rogue | Sneak attack for x3 damage if your target can’t see you. |
+| Bad Feeling | +2 to initiative.                                                             |
+| Bard        | As an attack, grant an ally the ability to reroll a die roll of their choice. |
+| Ranger      | Animal companion.                                                             |
+| Rogue       | Sneak attack for x3 damage if your target can’t see you.                      |
 
 ## Lineage Talents
 
