@@ -7,16 +7,18 @@ nav_order: 3
 
 ## Attribute Talents
 
-You may take these talents multiple times. You cannot raise an attribute above 20.
+You may take these talents multiple times. You cannot raise an attribute score above 20, Stamina above 100, or Mana above 30.
 
-| Talent   | Ability                                    |
-|:--------:|:-------------------------------------------|
-| Bull's Strength   | Add 1 to your Strength score.     |
-| Cat's Grace       | Add 1 to your Dexterity score.    |
-| Bear's Endurance  | Add 1 to your Constitution score. |
-| Fox's Cunning     | Add 1 to your Intelligence score. |
-| Owl's Wisdom      | Add 1 to your Dexterity score.    |
-| Eagle's Splendour | Add 1 to your Constitution score. |
+| Talent              | Ability                                                      |
+|:-------------------:|:-------------------------------------------------------------|
+| Bull's Strength     | Add 1 to your Strength score.                                |
+| Cat's Grace         | Add 1 to your Dexterity score.                               |
+| Bear's Endurance    | Add 1 to your Constitution score.                            |
+| Fox's Cunning       | Add 1 to your Intelligence score.                            |
+| Owl's Wisdom        | Add 1 to your Dexterity score.                               |
+| Eagle's Splendour   | Add 1 to your Constitution score.                            |
+| Warrior's Toughness | Add your Constitution score to your Stamina total.           |
+| Mage's Power        | Add your spellcasting attribute modifier to your mana total. |
 
 ## Arcane Talents
 
@@ -36,12 +38,12 @@ You may take these talents multiple times. You cannot raise an attribute above 2
 
 ## Expert Talents
 
-| Talent | Ability |
-|:------:|:--------|
-| Bad Feeling | +2 to initiative.                                                             |
-| Bard        | As an attack, grant an ally the ability to reroll a die roll of their choice. |
-| Ranger      | Animal companion.                                                             |
-| Rogue       | Sneak attack for x3 damage if your target can’t see you.                      |
+| Talent      | Ability                                                                  |
+|:-----------:|:-------------------------------------------------------------------------|
+| Bad Feeling | +2 to initiative.                                                        |
+| Bard        | As an attack, grant an ally the ability to reroll a die of their choice. |
+| Ranger      | Animal companion.                                                        |
+| Rogue       | Sneak attack for x3 damage if your target can’t see you.                 |
 
 ## Lineage Talents
 
