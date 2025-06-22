@@ -6,16 +6,19 @@ nav_order: 1
 # Attributes
 Start by generating your character's attributes.
 
-Much of what your character does in the game depends on their six attributes: **Strength** (STR), **Dexterity** (DEX), **Constitution** (CON), **Intelligence** (INT), **Wisdom** (WIS) and **Charisma** (CHA). Each attribute has a score, which is a number that you record on your character sheet.
+Much of what your character does in the game depends on their six attributes:
+* **Strength** (STR) measures athleticism and bodily power.
+* **Dexterity** (DEX) measures agility, reflexes, balance and poise.
+* **Constitution** (CON) measures health, stamina and vital force.
+* **Intelligence** (INT) measures acuity, recall and analytical skill.
+* **Wisdom** (WIS) measures awareness, intuition and insight.
+* **Charisma** (CHA) measures confidence and eloquence.
 
-**Strength**, **Dexterity** and **Constitution** are physical attributes, whereas **Intelligence**, **Wisdom** and **Charisma** are mental attributes.
+Strength, Dexterity and Constitution are **physical** attributes.
 
-* **Strength** measures athleticism and bodily power.
-* **Dexterity** measures agility, reflexes, balance and poise.
-* **Constitution** measures health, stamina and vital force.
-* **Intelligence** measures acuity, recall and analytical skill.
-* **Wisdom** measures awareness, intuition and insight.
-* **Charisma** measures confidence and eloquence.
+Intelligence, Wisdom and Charisma are **mental** attributes.
+
+Each attribute has a score, which is a number that you record on your character sheet.
 
 You generate your character's six ability scores randomly. Roll 4d6 and record the total of the highest three dice. Do this five more times, so that you have six numbers.
 
