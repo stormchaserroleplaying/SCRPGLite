@@ -1,5 +1,5 @@
 ---
-title: Beholder
+title: Bugbear
 parent: Humanoid
 grand_parent: Monsters
 ---
