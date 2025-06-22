@@ -5,7 +5,7 @@ nav_order: 4
 
 # Equipment
 Pick 2 weapons, or 1 weapon and a shield.
-* **Small** and *Medium** weapons may make melee attacks using Dexterity instead of Strength.
+* **Small** and **Medium** weapons may make melee attacks using Dexterity instead of Strength.
 * You can hold a **Small** and **Medium** weapon in each hand, granting you an extra attack.
 * **Large** weapons can be held with both hands, dealing 1d10 damage.
 * **Huge** weapons require both hands. Some huge weapons can attack monsters up to 10 feet away, but can’t be used to attack monsters within 5 feet.
