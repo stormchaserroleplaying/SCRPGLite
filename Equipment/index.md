@@ -20,6 +20,8 @@ Pick 2 weapons, or 1 weapon and a shield.
 | Large       | Battleaxe, club, flail, longsword, spear, staff, trident, warhammer. | d8     |
 | Huge        | Glaive, greataxe, greatclub, greatsword, halberd, lance, maul, pike. | d12    |
 
+## Ranged Weapons
+
 | Weapon Size | Example                           | Damage |
 |:-----------:|:----------------------------------|:------:|
 | Small       | Blowgun, dart, sling.             | d4     |
